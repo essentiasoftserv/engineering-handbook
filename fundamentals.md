@@ -61,6 +61,8 @@ When you start practicing:
 
 Train of thought flows a lot more smoothly when the fingers have the muscle-memory and know which keys to hit. Hot Take: no one (except the differently-abled) should be able to call themselves a computer engineer without knowing how to touch type. 
 
+Make touch typing the first thing you practice in your day — when your mind is fresh and focused. If you do it while you’re tired, you’ll make far more mistakes, and your brain will start building muscle memory for those mistakes instead of the correct patterns. In other words, practicing in a distracted or exhausted state doesn’t just slow your progress — it can actively set you back. So practice only when you’re attentive enough to do it right; otherwise, you risk unlearning rather than learning.
+
 Note: Not maintaining proper posture will strain your rests and cause RSI. 
 
 # The Basics of Computer Science
