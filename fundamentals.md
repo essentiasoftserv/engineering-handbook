@@ -199,3 +199,10 @@ definition of done.
 ##  People: managers, reportees, colleagues, bosses, clients. 
 
 # Marketing and Sales
+
+## Software Design: A Tool-Based Introduction with Python
+https://third-bit.com/sdxpy/ is a free online book that teaches how to design and build real software systems using Python. Instead of focusing only on basic syntax, it shows how real tools like databases, interpreters, web servers, and debuggers work internally. 
+
+By studying this, you learn important software engineering skills such as organizing code, breaking big problems into smaller parts, and writing clean, maintainable programs. 
+
+It helps you move from basic programming to thinking like a professional software developer and building real-world applications.
